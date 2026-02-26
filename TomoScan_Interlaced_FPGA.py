@@ -6,7 +6,6 @@ sequences (e.g. TIMBIR-like, golden-angle, multi-turn variants), convert angles
 to encoder/PSO counts, and prepare trigger position lists suitable for fast
 trigger delivery hardware.
 
-
 Author: Noemi Fico
 """
 
